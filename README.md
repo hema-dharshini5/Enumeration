@@ -107,15 +107,15 @@ In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
 
 select any username in the first column of the above file and check the same
 ## Output:
-![321864480-d6b3c192-6b97-41e8-a677-61b9cfc8f1a0 (1)](https://github.com/hema-dharshini5/Enumeration/assets/147117728/a686db8f-60d6-47aa-84b8-d4ee8868261e)
+![321864101-d179c0dc-864e-410e-b4a3-d317c96d348d](https://github.com/hema-dharshini5/Enumeration/assets/147117728/9e05f353-d6a0-44fd-be39-d2509bf3fd4a)
 
 
-#Telnet for smtp enumeration
+# Telnet for smtp enumeration
 Telnet allows to connect to remote host based on the port no. For smtp port no is 25
 telnet <host address> 25 to connect
 and issue appropriate commands
   
- ##Output
+ ## Output
   
   ![321864480-d6b3c192-6b97-41e8-a677-61b9cfc8f1a0](https://github.com/hema-dharshini5/Enumeration/assets/147117728/5acc3264-00ec-4199-b633-c5544f3436f3)
 
