@@ -75,7 +75,8 @@ Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TX
 Perform common SRV Record Enumeration
 Top level domain expansion
 ## OUTPUT:
-![321864522-6034435c-b383-491b-b814-f1a6b7e4548c](https://github.com/hema-dharshini5/Enumeration/assets/147117728/b13902a9-3f12-43ea-a88c-fcb92d41c160)
+![321864241-b53b2d1e-1a39-4b15-97d8-9e0b238f0d42](https://github.com/hema-dharshini5/Enumeration/assets/147117728/a58654e9-a4f0-4190-bbc5-f9a5cc26de21)
+![321864259-b4f2a600-78e2-4605-b51f-9cf39786c7ed](https://github.com/hema-dharshini5/Enumeration/assets/147117728/2edd2dae-8cca-4b67-9e60-43cb83296515)
 
 
 
@@ -96,15 +97,23 @@ Calculate C class domain network ranges and perform whois queries on them (threa
 Perform reverse lookups on netranges (C class or/and whois netranges) (threaded).
 Write to domain_ips.txt file ip-blocks.
 This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
+## Output:
+![321864359-3c737672-4643-423a-b41b-0bfa2262ebb4](https://github.com/hema-dharshini5/Enumeration/assets/147117728/127a5dc8-cfc1-437a-b5fe-3298ef3bf333)
 
 
 ##smtp-user-enum
 Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
 
+## Output:
+![321864414-c07b5298-9a16-41d8-805e-b6b751d0eda7 (1)](https://github.com/hema-dharshini5/Enumeration/assets/147117728/91d7df7f-7e92-4f20-81d1-61ec0bf71957)
 
 In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
+## Output:
+![321864414-c07b5298-9a16-41d8-805e-b6b751d0eda7](https://github.com/hema-dharshini5/Enumeration/assets/147117728/15627291-c3d4-41e4-9f15-5e18d737ab63)
 
 select any username in the first column of the above file and check the same
+## Output:
+![321864480-d6b3c192-6b97-41e8-a677-61b9cfc8f1a0 (1)](https://github.com/hema-dharshini5/Enumeration/assets/147117728/a686db8f-60d6-47aa-84b8-d4ee8868261e)
 
 
 #Telnet for smtp enumeration
@@ -114,7 +123,8 @@ and issue appropriate commands
   
  ##Output
   
-  
+  ![321864480-d6b3c192-6b97-41e8-a677-61b9cfc8f1a0](https://github.com/hema-dharshini5/Enumeration/assets/147117728/5acc3264-00ec-4199-b633-c5544f3436f3)
+
 
 ## nmap –script smtp-enum-users.nse <hostname>
 
@@ -122,6 +132,7 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## OUTPUT:
+![321864522-6034435c-b383-491b-b814-f1a6b7e4548c](https://github.com/hema-dharshini5/Enumeration/assets/147117728/d2a6318c-ca2c-46a0-bab6-a302586edb79)
 
 
 ## RESULT:
