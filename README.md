@@ -103,13 +103,12 @@ Username guessing tool primarily for use against the default Solaris SMTP servic
 
 In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
 ## Output:
-![321864101-d179c0dc-864e-410e-b4a3-d317c96d348d](https://github.com/hema-dharshini5/Enumeration/assets/147117728/9e05f353-d6a0-44fd-be39-d2509bf3fd4a)
-
+![321864480-d6b3c192-6b97-41e8-a677-61b9cfc8f1a0 (1)](https://github.com/hema-dharshini5/Enumeration/assets/147117728/cdb2c786-ef6b-471c-8ce6-787ccc24212b)
 
 
 select any username in the first column of the above file and check the same
 ## Output:
-![321864522-6034435c-b383-491b-b814-f1a6b7e4548c](https://github.com/hema-dharshini5/Enumeration/assets/147117728/ffd70885-9a2c-4817-bc6f-be32dceb765f)
+![321864522-6034435c-b383-491b-b814-f1a6b7e4548c (2)](https://github.com/hema-dharshini5/Enumeration/assets/147117728/47f981ad-2a30-47b2-a4d4-50f668573b14)
 
 # Telnet for smtp enumeration
 Telnet allows to connect to remote host based on the port no. For smtp port no is 25
@@ -117,9 +116,9 @@ telnet <host address> 25 to connect
 and issue appropriate commands
   
  ## Output
-  
-  ![321864480-d6b3c192-6b97-41e8-a677-61b9cfc8f1a0](https://github.com/hema-dharshini5/Enumeration/assets/147117728/5acc3264-00ec-4199-b633-c5544f3436f3)
+  ![321864627-b9dc406a-5fad-4d9c-9b83-66198a836fd2](https://github.com/hema-dharshini5/Enumeration/assets/147117728/7d522d97-ad61-411b-9a8c-f279c7fa2548)
 
+  
 
 ## nmap –script smtp-enum-users.nse <hostname>
 
