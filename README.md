@@ -1,3 +1,5 @@
+## Name: Hemadharshini N
+## Register number: 212223220034
 # Enumeration
 Enumeration Techniques
 
@@ -64,9 +66,7 @@ link: This operator allows you to search for pages that link to a specific URL. 
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
 ![Screenshot 2024-04-17 082735](https://github.com/hema-dharshini5/Enumeration/assets/147117728/204c5833-85a2-4423-983d-419dc45eac99)
 
- 
 #DNS Enumeration
-
 
 ##DNS Recon
 provides the ability to perform:
@@ -77,12 +77,6 @@ Top level domain expansion
 ## OUTPUT:
 ![321864241-b53b2d1e-1a39-4b15-97d8-9e0b238f0d42](https://github.com/hema-dharshini5/Enumeration/assets/147117728/a58654e9-a4f0-4190-bbc5-f9a5cc26de21)
 ![321864259-b4f2a600-78e2-4605-b51f-9cf39786c7ed](https://github.com/hema-dharshini5/Enumeration/assets/147117728/2edd2dae-8cca-4b67-9e60-43cb83296515)
-
-
-
-
-
-
 
 ##dnsenum
 Dnsenum is a multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks. The main purpose of Dnsenum is to gather as much information as possible about a domain. The program currently performs the following operations:
