@@ -103,12 +103,13 @@ Username guessing tool primarily for use against the default Solaris SMTP servic
 
 In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
 ## Output:
-![321864414-c07b5298-9a16-41d8-805e-b6b751d0eda7](https://github.com/hema-dharshini5/Enumeration/assets/147117728/15627291-c3d4-41e4-9f15-5e18d737ab63)
+![321864101-d179c0dc-864e-410e-b4a3-d317c96d348d](https://github.com/hema-dharshini5/Enumeration/assets/147117728/9e05f353-d6a0-44fd-be39-d2509bf3fd4a)
+
+
 
 select any username in the first column of the above file and check the same
 ## Output:
-![321864101-d179c0dc-864e-410e-b4a3-d317c96d348d](https://github.com/hema-dharshini5/Enumeration/assets/147117728/9e05f353-d6a0-44fd-be39-d2509bf3fd4a)
-
+![321864522-6034435c-b383-491b-b814-f1a6b7e4548c](https://github.com/hema-dharshini5/Enumeration/assets/147117728/ffd70885-9a2c-4817-bc6f-be32dceb765f)
 
 # Telnet for smtp enumeration
 Telnet allows to connect to remote host based on the port no. For smtp port no is 25
