@@ -95,7 +95,7 @@ This program is useful for pentesters, ethical hackers and forensics experts. It
 ![321864359-3c737672-4643-423a-b41b-0bfa2262ebb4](https://github.com/hema-dharshini5/Enumeration/assets/147117728/127a5dc8-cfc1-437a-b5fe-3298ef3bf333)
 
 
-##smtp-user-enum
+## smtp-user-enum
 Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
 
 ## Output:
