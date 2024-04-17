@@ -61,7 +61,7 @@ intitle: This operator allows you to search for pages that contain specific text
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
 ## Output:
-![Screenshot 2024-04-16 224359](https://github.com/hema-dharshini5/Enumeration/assets/147117728/99e3b65d-cc18-430c-aa8e-926889c931f5)
+![321864101-d179c0dc-864e-410e-b4a3-d317c96d348d](https://github.com/hema-dharshini5/Enumeration/assets/147117728/7b1c6a10-5fb7-43de-a1a9-3ff83681331a)
 
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
 ![Screenshot 2024-04-17 082735](https://github.com/hema-dharshini5/Enumeration/assets/147117728/204c5833-85a2-4423-983d-419dc45eac99)
